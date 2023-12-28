@@ -1,4 +1,12 @@
 <p align="center">
+    <h1>Contact</h1>
+    <a href="https://www.linkedin.com/in/ceetros/">
+        <p>Linkedin</p>
+    </a>
+     <a href="mailto://joaoraphaelpp@gmail.com">
+        <p>Mail</p>
+    </a>
+    <p>Discord: @Ceetros</p>
     <h1>Skills</h1>
     <h2>Main Stacks<h2>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,js,ts,nodejs,unity&theme=light" />
@@ -11,18 +19,3 @@
     <h2>Tools & Others</h2>
     <img src="https://skillicons.dev/icons?i=git,docker,vim,gitlab,kubernetes,arduino,cmake,githubactions,grafana,linux,nginx,rabbitmq,redis,&theme=light&perline=6" />
 </p>
-
-<!--
-**Ceetros/ceetros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
