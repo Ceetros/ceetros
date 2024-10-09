@@ -15,7 +15,7 @@
     <h2>Database</h2>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light"/>
     <h2>IDE</h2>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,rider,idea&theme=light&perline=6" />
     <h2>Tools & Others</h2>
     <img src="https://skillicons.dev/icons?i=git,docker,vim,gitlab,kubernetes,arduino,cmake,githubactions,grafana,linux,nginx,rabbitmq,redis,&theme=light&perline=6" />
 </p>
